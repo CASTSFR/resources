@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UIView</title>
+    <g id="UIView" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,10 L4,26.1052632 C4,27.1511579 4.82707692,28 5.84615385,28 L5.84615385,28 L26.1538462,28 C27.1729231,28 28,27.1511579 28,26.1052632 L28,26.1052632 L28,10 L4,10 Z M29,27 C29,28.104 28.104,29 27,29 L5,29 C3.896,29 3,28.104 3,27 L3,5 C3,3.896 3.896,3 5,3 L27,3 C28.104,3 29,3.896 29,5 L29,27 Z" id="Shape-2" fill="#000000"></path>
+    </g>
+</svg>

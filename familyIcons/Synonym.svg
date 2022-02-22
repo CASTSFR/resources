@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Synonym</title>
+    <g id="Synonym" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="property-2" transform="translate(16.556349, 15.556349) scale(-1, 1) rotate(45.000000) translate(-16.556349, -15.556349) translate(1.556349, 8.556349)" fill="#000000">
+            <path d="M23,0 C19.475,0 16.565,2.609 16.079,6 L7.858,6 C7.412,4.278 5.861,3 4,3 C1.791,3 0,4.791 0,7 C0,9.209 1.791,11 4,11 C5.861,11 7.412,9.722 7.858,8 L16.079,8 C16.565,11.391 19.475,14 23,14 C26.866,14 30,10.866 30,7 C30,3.134 26.866,0 23,0 L23,0 Z M23,11 C20.791,11 19,9.209 19,7 C19,4.791 20.791,3 23,3 C25.209,3 27,4.791 27,7 C27,9.209 25.209,11 23,11 L23,11 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

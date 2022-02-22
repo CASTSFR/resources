@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>QueueCall</title>
+    <g id="QueueCall" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#000000" cx="2" cy="14" r="2"></circle>
+        <path d="M2.00033322,9.08301435 C4.51241124,9.50460708 6.4951172,11.4871817 6.91690614,13.9991931 L5.89974091,13.9988136 C5.5017376,12.0405479 3.95920958,10.4980949 2.00090392,10.1002017 Z" id="FirstRing" fill="#000000"></path>
+        <path d="M2,6 C6.418278,6 10,9.581722 10,14 L10,14 L9,14 L9,14 C9,10.1340068 5.86599325,7 2,7 Z" id="SecondRing" fill="#000000"></path>
+        <path d="M2,3 C8.07513225,3 13,7.92486775 13,14 L13,14 L12,14 L12,14 C12,8.4771525 7.5228475,4 2,4 Z" id="ThirdRing" fill="#000000"></path>
+        <path d="M2,0 C9.7319865,0 16,6.2680135 16,14 L16,14 L15,14 L15,14 C15,6.82029825 9.17970175,1 2,1 Z" id="FourthRing" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DatabaseView</title>
+    <g id="DatabaseView" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-1.000000, 0.000000)" fill="#000000">
+            <rect id="Rectangle-7-Copy-3" x="0" y="0" width="5" height="5"></rect>
+            <rect id="Rectangle-7-Copy-6" x="6" y="1" width="20" height="4"></rect>
+            <polygon id="Rectangle-7-Copy-4" points="0 7 5 7 5 12 0 12"></polygon>
+            <rect id="Rectangle-7-Copy-7" x="6" y="8" width="1" height="4"></rect>
+            <rect id="Rectangle-7-Copy-5" x="0" y="14" width="5" height="5"></rect>
+            <polygon id="Rectangle-7-Copy-8" points="6 15 7 15 7 19 6 19"></polygon>
+            <rect id="Rectangle-7-Copy-10" x="0" y="21" width="5" height="5"></rect>
+            <rect id="Rectangle-7-Copy-9" x="6" y="22" width="1" height="4"></rect>
+        </g>
+        <g id="Group-Copy-2" transform="translate(7.000000, 6.000000)" fill="#000000">
+            <rect id="Rectangle-7-Copy-3" x="0" y="0" width="5" height="5"></rect>
+            <rect id="Rectangle-7-Copy-6" x="6" y="1" width="20" height="4"></rect>
+            <polygon id="Rectangle-7-Copy-4" points="0 7 5 7 5 12 0 12"></polygon>
+            <rect id="Rectangle-7-Copy-7" x="6" y="8" width="20" height="4"></rect>
+            <rect id="Rectangle-7-Copy-5" x="0" y="14" width="5" height="5"></rect>
+            <polygon id="Rectangle-7-Copy-8" points="6 15 26 15 26 19 6 19"></polygon>
+            <rect id="Rectangle-7-Copy-10" x="0" y="21" width="5" height="5"></rect>
+            <rect id="Rectangle-7-Copy-9" x="6" y="22" width="20" height="4"></rect>
+        </g>
+    </g>
+</svg>
