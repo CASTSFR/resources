@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UnionOrange</title>
+    <g id="UnionOrange" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-1" fill="#F5A623" x="0" y="0" width="16" height="16" rx="3"></rect>
+        <polygon id="Rectangle-39-Copy-2" fill="#E6E6E6" points="4.5 3 7 3 4.5 12.1199999 2 12.1199999"></polygon>
+        <polygon id="Rectangle-39-Copy-3" fill="#E6E6E6" points="11.5 3 14 3 11.5 12.1199999 9 12.1199999"></polygon>
+        <polygon id="Rectangle-39" fill="#FFFFFF" points="2.41666667 10 12 10 11.5833333 12 2 12"></polygon>
+    </g>
+</svg>

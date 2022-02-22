@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>File_Gray</title>
+    <desc>Created with Sketch.</desc>
+    <g id="File_Gray" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file" transform="translate(4.000000, 2.000000)">
+            <g id="Group">
+                <path d="M15.6436364,0 L2.72727273,0 C1.52290909,0 0.545454545,0.977454545 0.545454545,2.18181818 L0.545454545,26.1818182 C0.545454545,27.3861818 1.52290909,28.3636364 2.72727273,28.3636364 L21.2727273,28.3636364 C22.4770909,28.3636364 23.4545455,27.3861818 23.4545455,26.1818182 L23.4545455,7.80981818 L15.6436364,0 L15.6436364,0 Z" id="Shape" fill="#E3E0E0"></path>
+                <polygon id="Shape" fill="#000000" opacity="0.1" points="16.2610909 7.188 23.4545455 14.3749091 23.4545455 7.82945455 16.2610909 0.642545455"></polygon>
+                <path d="M15.6436364,0 L15.624,5.64763636 C15.624,6.852 16.6014545,7.82945455 17.8058182,7.82945455 L23.4545455,7.80981818 L15.6436364,0 L15.6436364,0 Z" id="Shape" fill="#9B9B9B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

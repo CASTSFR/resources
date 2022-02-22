@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Annotation</title>
+    <defs>
+        <linearGradient x1="9.6613432%" y1="9.73943357%" x2="88.7832751%" y2="76.1828016%" id="linearGradient-1">
+            <stop stop-color="#7ED321" offset="0%"></stop>
+            <stop stop-color="#71B427" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-2" font-family="Helvetica-Bold, Helvetica" font-size="12" font-weight="bold" fill="#FFFFFF">
+            <tspan x="2.89941406" y="12">@</tspan>
+        </text>
+        <filter x="-69.7%" y="-67.9%" width="239.4%" height="264.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Annotation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-1.000000, 0.000000)">
+            <circle id="Oval" fill="#7ED321" cx="9" cy="8" r="8"></circle>
+            <path d="M13,5 L16.8835186,9.36785809 C16.3119025,12.6856727 13.6968109,15.3043369 10.3808199,15.8812744 L4.5,10 C4,7.5 4.33333333,5.66666667 5.5,4.5 C6.66666667,3.33333333 9.16666667,3.5 13,5 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <g id="@" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+                <use xlink:href="#text-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

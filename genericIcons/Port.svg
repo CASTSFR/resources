@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Port</title>
+    <g id="Port" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-5" fill="#858585" cx="15.9639067" cy="11.9639067" r="9.96390672"></circle>
+        <polygon id="Rectangle-41" fill="#FFFFFF" points="10.9819534 10.3032556 14.3032556 10.3032556 14.3032556 13.6245578 10.9819534 13.6245578"></polygon>
+        <rect id="Rectangle-41-Copy" fill="#FFFFFF" x="17.6245578" y="10.3032556" width="3.32130224" height="3.32130224"></rect>
+        <g id="Group-2" transform="translate(11.000000, 13.000000)">
+            <rect id="Rectangle-7" fill="#67B935" x="3" y="8" width="4" height="15"></rect>
+            <polygon id="Rectangle-7-Copy" fill-opacity="0.415421196" fill="#272727" points="3 8 7 8 7 14 3 10"></polygon>
+            <path d="M5,10 C7.73679972,10 9.95541425,7.76142375 9.95541425,5 C9.95541425,2.23857625 10.813582,2.92035238 5,2.92035238 C-0.81358199,2.92035237 0.0445857543,2.23857625 0.0445857543,5 C0.0445857543,7.76142375 2.26320028,10 5,10 Z" id="Oval-3" fill="#94E761"></path>
+            <rect id="Rectangle-8" fill="#94E761" x="2" y="0" width="2" height="3"></rect>
+            <rect id="Rectangle-8-Copy" fill="#94E761" x="6" y="0" width="2" height="3"></rect>
+        </g>
+    </g>
+</svg>

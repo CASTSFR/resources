@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Namespace</title>
+    <g id="Namespace" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-1" fill="#4A90E2" x="0" y="0" width="16" height="16" rx="3"></rect>
+        <g id="Group" transform="translate(1.000000, 2.000000)" fill="#FFFFFF">
+            <polygon id="Shape" points="5.25 1.71428571 5.25 0 1.75 0 1.75 5.14285714 0 5.14285714 0 6.85714286 1.75 6.85714286 1.75 12 5.25 12 5.25 10.2857143 3.5 10.2857143 3.5 1.71428571"></polygon>
+            <polygon id="Shape" points="12.25 5.14285714 12.25 0 8.75 0 8.75 1.71428571 10.5 1.71428571 10.5 10.2857143 8.75 10.2857143 8.75 12 12.25 12 12.25 6.85714286 14 6.85714286 14 5.14285714"></polygon>
+        </g>
+    </g>
+</svg>

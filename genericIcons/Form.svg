@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Form</title>
+    <g id="Form" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="window" transform="translate(2.000000, 0.000000)">
+            <path d="M28,8.82758621 L28,29.5607985 C28,30.9072377 27.0350769,32 25.8461538,32 L2.15384615,32 C0.964923077,32 0,30.9072377 0,29.5607985 L0,8.82758621 L28,8.82758621 L28,8.82758621 Z" id="Shape" fill="#E7E7E7"></path>
+            <path d="M2.15384615,0 L25.8461538,0 C27.0350769,0 28,1.12993103 28,2.52216749 L28,8.82758621 L0,8.82758621 L0,2.52216749 C0,1.12993103 0.964923077,0 2.15384615,0 L2.15384615,0 Z" id="Shape" fill="#DBDBDB"></path>
+            <path d="M4.4408921e-16,8.82758621 L20.4709866,32 L25.8451593,32 C27.0346314,32 28,30.9072377 28,29.5607985 L28,8.82758621 L4.4408921e-16,8.82758621 L4.4408921e-16,8.82758621 Z" id="Shape" fill="#000000" opacity="0.05"></path>
+        </g>
+        <rect id="Rectangle-42" stroke="#979797" fill="#FFFFFF" x="6.5" y="2.5" width="19" height="5"></rect>
+        <rect id="Rectangle-44" fill="#000000" x="8" y="3" width="1" height="4"></rect>
+        <rect id="Rectangle" fill="#007ACC" x="14" y="26" width="12" height="4" rx="2"></rect>
+        <rect id="Rectangle-42-Copy" stroke="#979797" fill="#FFFFFF" x="6.5" y="10.5" width="19" height="5"></rect>
+        <rect id="Rectangle-42-Copy-2" stroke="#979797" fill="#FFFFFF" x="6.5" y="18.5" width="19" height="5"></rect>
+        <polygon id="Rectangle-42-Copy" fill="#F1F1F1" points="13 3 25 3 25 7 19.4615385 7"></polygon>
+        <polygon id="Rectangle-42-Copy-3" fill="#F1F1F1" points="13 11 25 11 25 15 19.4615385 15"></polygon>
+        <polygon id="Rectangle-42-Copy-4" fill="#F1F1F1" points="13 19 25 19 25 23 19.4615385 23"></polygon>
+    </g>
+</svg>

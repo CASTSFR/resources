@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Fragment_JS</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.6436364,0 L2.72727273,0 C1.52290909,0 0.545454545,0.977454545 0.545454545,2.18181818 L0.545454545,26.1818182 C0.545454545,27.3861818 1.52290909,28.3636364 2.72727273,28.3636364 L21.2727273,28.3636364 C22.4770909,28.3636364 23.4545455,27.3861818 23.4545455,26.1818182 L23.4545455,7.80981818 L15.6436364,0 L15.6436364,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22.9090909" height="28.3636364" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Fragment_JS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file" transform="translate(4.000000, 2.000000)">
+            <g id="Group">
+                <use id="Shape" stroke="#E66434" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="3,2,2" xlink:href="#path-1"></use>
+                <rect id="Rectangle-38" fill="#E66434" x="4" y="12" width="16" height="12"></rect>
+                <polygon id="Shape" fill="#000000" opacity="0.1" points="16.2610909 7.188 23.4545455 14.3749091 23.4545455 7.82945455 16.2610909 0.642545455"></polygon>
+                <path d="M15.6436364,0 L15.624,5.64763636 C15.624,6.852 16.6014545,7.82945455 17.8058182,7.82945455 L23.4545455,7.80981818 L15.6436364,0 L15.6436364,0 Z" id="Shape" fill="#E8A994"></path>
+            </g>
+        </g>
+        <text id="JS" font-family="ArialMT, Arial" font-size="10" font-weight="normal" fill="#FFFFFF">
+            <tspan x="10.1650391" y="23">JS</tspan>
+        </text>
+    </g>
+</svg>

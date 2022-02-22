@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EnumItemExternal</title>
+    <g id="EnumItemExternal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="enumerate-item" transform="translate(8.000000, 2.000000)">
+            <polygon id="Shape" fill="#656565" points="0 14.2536471 16 8.23529412 16 14.2536471 0 20.272"></polygon>
+            <polygon id="Shape" fill="#BDBDBD" points="0 6.01835294 16 0 16 2.72423529 0 8.74258824"></polygon>
+            <polygon id="Shape" fill="#BDBDBD" points="0 25.2757647 16 19.2590588 16 21.9816471 0 28"></polygon>
+        </g>
+    </g>
+</svg>

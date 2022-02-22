@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>TableColumn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.5207851%" id="linearGradient-1">
+            <stop stop-color="#DE7552" offset="0%"></stop>
+            <stop stop-color="#D82A02" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="TableColumn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-7-Copy-3" fill="#86BFFB" x="1" y="1" width="6" height="6"></rect>
+        <rect id="Rectangle-7-Copy-6" fill="#4095F7" x="7" y="2" width="24" height="5"></rect>
+        <rect id="Rectangle-7-Copy-4" fill="#86BFFB" x="1" y="9" width="6" height="6"></rect>
+        <rect id="Rectangle-7-Copy-7" fill="#4095F7" x="7" y="10" width="24" height="5"></rect>
+        <rect id="Rectangle-7-Copy-5" fill="#86BFFB" x="1" y="17" width="6" height="6"></rect>
+        <rect id="Rectangle-7-Copy-8" fill="#4095F7" x="7" y="18" width="24" height="5"></rect>
+        <rect id="Rectangle-7-Copy-10" fill="#86BFFB" x="1" y="25" width="6" height="6"></rect>
+        <rect id="Rectangle-7-Copy-9" fill="#4095F7" x="7" y="26" width="24" height="5"></rect>
+        <polygon id="Rectangle-15" fill-opacity="0.415421196" fill="#272727" transform="translate(9.500000, 12.500000) scale(1, -1) translate(-9.500000, -12.500000) " points="7 10 12 10 9.4 15 7 15"></polygon>
+        <polygon id="Rectangle-15-Copy" fill-opacity="0.415421196" fill="#272727" transform="translate(9.500000, 20.500000) scale(1, -1) translate(-9.500000, -20.500000) " points="7 18 12 18 9.4 23 7 23"></polygon>
+        <polygon id="Rectangle-15-Copy-2" fill-opacity="0.415421196" fill="#272727" transform="translate(9.500000, 28.500000) scale(1, -1) translate(-9.500000, -28.500000) " points="7 26 12 26 9.4 31 7 31"></polygon>
+        <polygon id="Rectangle-15-Copy-3" fill-opacity="0.415421196" fill="#272727" transform="translate(9.500000, 4.500000) scale(1, -1) translate(-9.500000, -4.500000) " points="7 2 12 2 9.4 7 7 7"></polygon>
+        <polygon id="Rectangle-15-Copy-7" fill-opacity="0.415421196" fill="#272727" transform="translate(24.500000, 12.500000) scale(1, -1) translate(-24.500000, -12.500000) " points="22 10 27 10 24.4 15 22 15"></polygon>
+        <polygon id="Rectangle-15-Copy-6" fill-opacity="0.415421196" fill="#272727" transform="translate(24.500000, 20.500000) scale(1, -1) translate(-24.500000, -20.500000) " points="22 18 27 18 24.4 23 22 23"></polygon>
+        <polygon id="Rectangle-15-Copy-5" fill-opacity="0.415421196" fill="#272727" transform="translate(24.500000, 28.500000) scale(1, -1) translate(-24.500000, -28.500000) " points="22 26 27 26 24.4 31 22 31"></polygon>
+        <polygon id="Rectangle-15-Copy-4" fill-opacity="0.415421196" fill="#272727" transform="translate(24.500000, 4.500000) scale(1, -1) translate(-24.500000, -4.500000) " points="22 2 27 2 24.4 7 22 7"></polygon>
+        <rect id="Rectangle" stroke="#E71E1E" fill="url(#linearGradient-1)" opacity="0.637907609" x="16.5" y="1.5" width="5" height="29"></rect>
+    </g>
+</svg>

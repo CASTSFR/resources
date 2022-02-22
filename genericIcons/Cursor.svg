@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Cursor</title>
+    <g id="Cursor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alias" transform="translate(16.000000, 17.500000) rotate(180.000000) translate(-16.000000, -17.500000) translate(1.000000, 5.000000)">
+            <g id="Group">
+                <polygon id="Shape" fill="#1A4F8E" points="9.21869565 15.7272727 26.1752174 15.7272727 26.1752174 21 9.21869565 21 9.21869565 15.7272727"></polygon>
+                <polygon id="Shape" fill="#4A90E2" points="13.0434783 25 13.0434783 12.4545455 -3.55271368e-15 19"></polygon>
+                <polygon id="Shape" fill="#2D71C0" points="18.2608696 0 11.7391304 0 23.4782609 21 30 21"></polygon>
+                <polygon id="Shape" fill="#4A90E2" points="10.4347826 0 16.9565217 0 10.4347826 8 3.91304348 8"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

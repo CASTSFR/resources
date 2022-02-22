@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TabMethod16</title>
+    <g id="TabMethod16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function" transform="translate(1.000000, 0.000000)">
+            <polygon id="Shape" fill="#1864BE" points="0 13.6145455 5.34188034 13.6145455 5.34188034 15.8836364 0 15.8836364"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="3.4981685 13.6145455 1.54227717 15.8957382 4.59478022 15.8957382 5.11446886 13.6145455"></polygon>
+            <polygon id="Shape" fill="#1864BE" points="9.15750916 0 14.4993895 0 14.4993895 2.26909091 9.15750916 2.26909091"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="11.0172466 2.28119273 12.973138 0 9.92063492 0 9.40018315 2.28119273"></polygon>
+            <polygon id="Shape" fill="#1864BE" points="3.05250305 5.29454545 12.2100122 5.29454545 12.2100122 7.56363636 3.05250305 7.56363636"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="9.49099512 7.57573818 11.4468864 5.29454545 8.39438339 5.29454545 7.87393162 7.57573818"></polygon>
+            <polygon id="Shape" fill="#4A90E2" points="8.39438339 0 11.4468864 0 6.10500611 15.8836364 3.05250305 15.8836364"></polygon>
+        </g>
+        <rect id="Rectangle-25-Copy-7" fill="#000000" x="12" y="12" width="3" height="1"></rect>
+        <rect id="Rectangle-25-Copy-4" fill="#000000" x="12" y="14" width="3" height="1"></rect>
+        <rect id="Rectangle-25-Copy-5" fill="#000000" x="10" y="10" width="3" height="1"></rect>
+    </g>
+</svg>

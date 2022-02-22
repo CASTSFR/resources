@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ProcedurePrivate</title>
+    <g id="ProcedurePrivate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function" transform="translate(2.000000, 1.000000)">
+            <polygon id="Shape" fill="#2D71C0" points="13.4835165 0 23.0989011 0 23.0989011 4.11272727 13.4835165 4.11272727"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="23.3516484 0 14.8571429 0 12.9203297 4.13466182 19.831044 4.13466182"></polygon>
+            <polygon id="Shape" fill="#2D71C0" points="22.974505 13 20.9749318 17.1127273 6.49450549 17.1127273 6.49450549 13"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="11.0831943 17.1346618 14.6030768 13 9.109698 13 8.17307692 17.1346618"></polygon>
+            <polygon id="Shape" fill="#4A90E2" points="10.1098901 0 15.6043956 0 5.98901099 28.7890909 0.494505495 28.7890909"></polygon>
+            <path d="M28.6043956,0 L22.9259915,17 L17.4319915,17 L23.1098901,0 L28.6043956,0 Z" id="Combined-Shape" fill="#4A90E2"></path>
+        </g>
+        <rect id="Rectangle-2" fill="#000000" x="22" y="24" width="8" height="8" rx="1"></rect>
+        <path d="M26,21 C27.6568542,21 29,22.3431458 29,24 C29,25.6568542 27.6568542,27 26,27 C24.3431458,27 23,25.6568542 23,24 C23,22.3431458 24.3431458,21 26,21 Z M26,22 C24.8954305,22 24,22.8954305 24,24 C24,25.1045695 24.8954305,26 26,26 C27.1045695,26 28,25.1045695 28,24 C28,22.8954305 27.1045695,22 26,22 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

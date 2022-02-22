@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UIButton</title>
+    <g id="UIButton" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-34" fill="#4A90E2" x="2" y="9" width="28" height="14" rx="7"></rect>
+        <path d="M11,9 L22.1064094,9 C25.9727723,9 29.1070788,12.1418733 29.1070788,16 L29.1070788,16 C29.1070788,19.8659932 25.9767292,23 22.1548949,23 L22.1548949,23 L11,9 Z" id="Rectangle-34-Copy" fill="#9BC0EA"></path>
+        <rect id="Rectangle-34-Copy-2" stroke="#4A90E2" x="2.5" y="9.5" width="27" height="13" rx="6.5"></rect>
+    </g>
+</svg>

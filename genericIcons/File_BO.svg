@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>File_BO</title>
+    <desc>Created with Sketch.</desc>
+    <g id="File_BO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file" transform="translate(1.000000, 0.000000)">
+            <g id="Group">
+                <path d="M9.03119481,0.5 L1.33333333,0.5 C0.864933667,0.5 0.5,0.836861847 0.5,1.23076923 L0.5,14.7692308 C0.5,15.1631382 0.864933667,15.5 1.33333333,15.5 L12.6666667,15.5 C13.1350663,15.5 13.5,15.1631382 13.5,14.7692308 L13.5,4.62447482 L9.03119481,0.5 Z" id="Shape" stroke="#EFEFF0" fill="#EFEFF0"></path>
+                <polygon id="Shape" fill="#000000" opacity="0.1" points="9.16833325 2.96226168 14 7.1109333 14 4.42845964 9.16833325 0"></polygon>
+                <path d="M9.19999981,3.1159373 C9.19999981,3.78041379 9.77018163,4.31969906 10.4727271,4.31969906 L13.8904419,4.31969929 L9.21145435,0 L9.19999981,3.1159373 Z" id="Shape" fill="#F7F7F7"></path>
+                <path d="M0.382112805,7.07812956 C0.900511133,7.02679201 1.43425202,7 1.97928253,7 C6.96128722,7 11,9.23857625 11,12 C11,13.6629209 9.53539661,15.1362358 7.28217211,16.0452614 C7.74428534,15.2635671 8,14.4033015 8,13.5 C8,10.2539804 4.69788329,7.56369599 0.382112805,7.07812956 Z" id="Combined-Shape" fill="#79A7DB"></path>
+                <circle id="Oval" fill="#E54343" cx="9.5" cy="7.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

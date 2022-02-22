@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Book</title>
+    <g id="Book" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.5,2.57650484 L0.5,13.4234952 L6.5,12.5663523 L6.5,3.4336477 L0.5,2.57650484 Z" id="Rectangle-2" stroke="#44117D"></path>
+        <rect id="Rectangle" stroke="#44117D" x="8" y="3.5" width="1" height="9"></rect>
+        <path d="M9.5,2.57650484 L9.5,13.4234952 L15.5,12.5663523 L15.5,3.4336477 L9.5,2.57650484 Z" id="Rectangle-2-Copy" stroke="#44117D" transform="translate(12.500000, 8.000000) scale(-1, 1) translate(-12.500000, -8.000000) "></path>
+    </g>
+</svg>

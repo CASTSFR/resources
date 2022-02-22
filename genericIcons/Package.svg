@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Package</title>
+    <g id="Package" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="object" transform="translate(4.000000, 2.000000)">
+            <g id="Group">
+                <polygon id="Shape" fill="#F77214" points="12 14.5374545 0 6.80181818 0 21.4134545 12 28.2894545"></polygon>
+                <polygon id="Shape" fill="#CA5E0E" points="0 6.80181818 12 0.0741818182 24 6.80072727 12 14.5374545"></polygon>
+                <polygon id="Shape" fill="#B5530B" points="12 28.2894545 24 21.4134545 24 6.80072727 12 14.5363636"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

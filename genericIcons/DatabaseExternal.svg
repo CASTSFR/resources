@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DatabaseExternal</title>
+    <g id="DatabaseExternal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="database" transform="translate(5.000000, 1.000000)">
+            <g id="Group" transform="translate(0.000000, 3.000000)" fill="#9B9B9B">
+                <path d="M22,14.88 L22,9.971 C19.86,11.181 15.781,12 11.094,12 C6.264,12 2.081,11.13 0,9.859 L0,14.773 C2.081,16.044 6.264,16.914 11.094,16.914 C15.785,16.913 19.863,16.092 22,14.88 L22,14.88 Z" id="Shape"></path>
+                <path d="M11.094,8.83 C15.785,8.83 19.864,8.009 22,6.797 L22,0.333 L0,0.333 L0,6.69 C2.081,7.96 6.264,8.83 11.094,8.83 L11.094,8.83 Z" id="Shape"></path>
+                <path d="M11.094,20.083 C6.264,20.083 2.081,19.213 -1.77635684e-15,17.941 L-1.77635684e-15,22.5 C0.002,24.111 4.926,25.416 11,25.416 C17.074,25.416 21.998,24.111 22,22.5 L22,18.053 C19.86,19.264 15.781,20.083 11.094,20.083 L11.094,20.083 Z" id="Shape"></path>
+            </g>
+            <path d="M11,0.417 C17.075,0.417 22,1.723 22,3.333 C22,4.944 17.075,6.25 11,6.25 C4.925,6.25 0,4.944 0,3.333 C0,1.722 4.925,0.417 11,0.417 L11,0.417 Z" id="Shape" fill="#C9C9C9"></path>
+        </g>
+    </g>
+</svg>

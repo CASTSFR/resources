@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TemplateRepeatingRectangle</title>
+    <g id="TemplateRepeatingRectangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,0 L15,16 L1,16 L1,0 L15,0 Z M14,1.14285714 L2,1.14285714 L2,14.8571429 L14,14.8571429 L14,1.14285714 Z" id="Combined-Shape" fill="#4A4A4A"></path>
+        <path d="M5,2 L5,3 L4,3 L4,13 L5,13 L5,14 L3,14 L3,2 L5,2 Z" id="Combined-Shape" fill="#D0021B"></path>
+        <path d="M13,2 L13,14 L6,14 L6,2 L13,2 Z M12,3 L7,3 L7,13 L12,13 L12,3 Z" id="Combined-Shape-Copy" fill="#D0021B"></path>
+    </g>
+</svg>

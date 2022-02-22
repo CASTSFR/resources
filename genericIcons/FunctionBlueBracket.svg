@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FunctionBlueBracket</title>
+    <g id="FunctionBlueBracket" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function" transform="translate(1.000000, 1.000000)">
+            <polygon id="Shape" fill="#2D71C0" points="0 24.6763636 9.61538462 24.6763636 9.61538462 28.7890909 0 28.7890909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="6.2967033 24.6763636 2.7760989 28.8110255 8.2706044 28.8110255 9.20604396 24.6763636"></polygon>
+            <polygon id="Shape" fill="#2D71C0" points="16.4835165 0 26.0989011 0 26.0989011 4.11272727 16.4835165 4.11272727"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="19.831044 4.13466182 23.3516484 0 17.8571429 0 16.9203297 4.13466182"></polygon>
+            <polygon id="Shape" fill="#4A90E2" points="5.49450549 9.59636364 21.978022 9.59636364 21.978022 13.7090909 5.49450549 13.7090909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="17.0837912 13.7310255 20.6043956 9.59636364 15.1098901 9.59636364 14.1730769 13.7310255"></polygon>
+            <polygon id="Shape" fill="#4A90E2" points="15.1098901 0 20.6043956 0 10.989011 28.7890909 5.49450549 28.7890909"></polygon>
+        </g>
+        <polygon id="Shape" fill="#000000" points="23.0786227 20.4285714 23.0786227 19 20.3595409 19 20.3595409 23.2857143 19 23.2857143 19 24.7142857 20.3595409 24.7142857 20.3595409 29 23.0786227 29 23.0786227 27.5714286 21.7190818 27.5714286 21.7190818 20.4285714"></polygon>
+        <polygon id="Shape" fill="#000000" points="28.5167864 23.2857143 28.5167864 19 25.7977046 19 25.7977046 20.4285714 27.1572455 20.4285714 27.1572455 27.5714286 25.7977046 27.5714286 25.7977046 29 28.5167864 29 28.5167864 24.7142857 29.8763273 24.7142857 29.8763273 23.2857143"></polygon>
+    </g>
+</svg>

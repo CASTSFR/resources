@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>VariableHeader</title>
+    <g id="VariableHeader" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="variable" transform="translate(0.000000, 6.000000)">
+            <rect id="Rectangle-path" fill="#4095F7" x="4.28571429" y="1.61538462" width="5.35714286" height="3.23076923"></rect>
+            <rect id="Rectangle-path" fill="#2274C6" x="20.3571429" y="1.61538462" width="5.35714286" height="3.23076923"></rect>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="6.42857143 4.84615385 9.64285714 4.84615385 9.64285714 1.61538462 7.5 1.61538462"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="23.5714286 1.61538462 21.4285714 1.61538462 21.4285714 4.84615385 24.6428571 4.84615385"></polygon>
+            <polygon id="Shape" fill="#2274C6" points="20.3571429 1.61538462 11.7857143 19.3846154 15 19.3846154 23.5714286 1.61538462"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="12.8571429 19.3846154 15 19.3846154 16.5789577 16.1538462 12.8571429 16.1538462"></polygon>
+            <polygon id="Shape" fill="#4095F7" points="7.5 1.61538462 10.7142857 1.61538462 15 19.3846154 11.7857143 19.3846154"></polygon>
+        </g>
+        <g id="Group" transform="translate(20.000000, 19.000000)" fill="#000000">
+            <polygon id="Shape" points="9.125 1.42857143 9.125 0 6.375 0 6.375 4.28571429 5 4.28571429 5 5.71428571 6.375 5.71428571 6.375 10 9.125 10 9.125 8.57142857 7.75 8.57142857 7.75 1.42857143"></polygon>
+            <polygon id="Shape" points="3.625 4.28571429 3.625 0 0.875 0 0.875 1.42857143 2.25 1.42857143 2.25 8.57142857 0.875 8.57142857 0.875 10 3.625 10 3.625 5.71428571 5 5.71428571 5 4.28571429"></polygon>
+        </g>
+    </g>
+</svg>

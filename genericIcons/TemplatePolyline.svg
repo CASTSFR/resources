@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TemplatePolyline</title>
+    <g id="TemplatePolyline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,1 L15,15 L1,15 L1,1 L15,1 Z M14,2 L2,2 L2,14 L14,14 L14,2 Z" id="Combined-Shape" fill="#4A4A4A"></path>
+        <rect id="Rectangle" fill="#4A90E2" transform="translate(4.500000, 8.500000) rotate(25.000000) translate(-4.500000, -8.500000) " x="4" y="6" width="1" height="5"></rect>
+        <rect id="Rectangle-Copy" fill="#4A90E2" transform="translate(7.232318, 8.883386) rotate(-25.000000) translate(-7.232318, -8.883386) " x="6.732318" y="5.38338639" width="1" height="7"></rect>
+        <rect id="Rectangle-Copy-2" fill="#4A90E2" transform="translate(10.500000, 8.000000) rotate(25.000000) translate(-10.500000, -8.000000) " x="10" y="3" width="1" height="10"></rect>
+        <rect id="Rectangle-7" fill="#1A4F8E" x="4.69999981" y="5" width="2" height="2"></rect>
+        <rect id="Rectangle-7-Copy" fill="#1A4F8E" x="7.4000001" y="11" width="2" height="2"></rect>
+    </g>
+</svg>

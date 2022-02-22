@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FunctionBluePrivate</title>
+    <g id="FunctionBluePrivate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function" transform="translate(1.000000, 1.000000)">
+            <polygon id="Shape" fill="#2D71C0" points="0 24.6763636 9.61538462 24.6763636 9.61538462 28.7890909 0 28.7890909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="6.2967033 24.6763636 2.7760989 28.8110255 8.2706044 28.8110255 9.20604396 24.6763636"></polygon>
+            <polygon id="Shape" fill="#2D71C0" points="16.4835165 0 26.0989011 0 26.0989011 4.11272727 16.4835165 4.11272727"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="19.831044 4.13466182 23.3516484 0 17.8571429 0 16.9203297 4.13466182"></polygon>
+            <polygon id="Shape" fill="#2D71C0" points="5.49450549 9.59636364 21.978022 9.59636364 21.978022 13.7090909 5.49450549 13.7090909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="17.0837912 13.7310255 20.6043956 9.59636364 15.1098901 9.59636364 14.1730769 13.7310255"></polygon>
+            <polygon id="Shape" fill="#4A90E2" points="15.1098901 0 20.6043956 0 10.989011 28.7890909 5.49450549 28.7890909"></polygon>
+        </g>
+        <rect id="Rectangle-2" fill="#000000" x="22" y="24" width="8" height="8" rx="1"></rect>
+        <path d="M26,21 C27.6568542,21 29,22.3431458 29,24 C29,25.6568542 27.6568542,27 26,27 C24.3431458,27 23,25.6568542 23,24 C23,22.3431458 24.3431458,21 26,21 Z M26,22 C24.8954305,22 24,22.8954305 24,24 C24,25.1045695 24.8954305,26 26,26 C27.1045695,26 28,25.1045695 28,24 C28,22.8954305 27.1045695,22 26,22 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

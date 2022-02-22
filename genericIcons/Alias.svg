@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Alias</title>
+    <g id="Alias" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alias" transform="translate(1.000000, 1.000000)">
+            <g id="Group">
+                <polygon id="Shape" fill="#0C8D6D" points="8.21869565 23.7272727 25.1752174 23.7272727 25.1752174 29 8.21869565 29 8.21869565 23.7272727"></polygon>
+                <polyline id="Shape" fill="#2BC39D" points="0 29 13.0434783 29 13.0434783 18.4545455 0 29"></polyline>
+                <polygon id="Shape" fill="#16B890" points="18.2608696 0 11.7391304 0 23.4782609 29 30 29"></polygon>
+                <polygon id="Shape" fill="#26D7AB" points="10.4347826 0 16.9565217 0 10.4347826 15.8181818 3.91304348 15.8181818"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

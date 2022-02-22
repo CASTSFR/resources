@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TemplateUnknown</title>
+    <g id="TemplateUnknown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,1 L15,15 L1,15 L1,1 L15,1 Z M14,2 L2,2 L2,14 L14,14 L14,2 Z" id="Combined-Shape" fill="#4A4A4A"></path>
+        <rect id="Rectangle-6" fill="#4A90E2" x="7" y="11" width="2" height="2"></rect>
+        <rect id="Rectangle-6-Copy" fill="#4A90E2" x="7" y="7" width="2" height="3"></rect>
+        <path d="M8,3 C10.209139,3 12,4.11928813 12,5.5 C12,6.88071187 10.209139,8 8,8 L8.17901449,7.997 L8.17901449,6.997 L8.20539842,6.99653946 C9.76645121,6.94376328 11,6.29390933 11,5.5 C11,4.67157288 9.65685425,4 8,4 C6.69439278,4 5.58358279,4.41701302 5.17128467,4.99918174 L4.08021157,4.99939359 C4.45120267,3.85857557 6.06517648,3 8,3 Z" id="Combined-Shape" fill="#4A90E2"></path>
+    </g>
+</svg>

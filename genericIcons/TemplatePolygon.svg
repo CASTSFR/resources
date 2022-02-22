@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TemplatePolygon</title>
+    <g id="TemplatePolygon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,1 L15,15 L1,15 L1,1 L15,1 Z M14,2 L2,2 L2,14 L14,14 L14,2 Z" id="Combined-Shape" fill="#4A4A4A"></path>
+        <rect id="Rectangle-Copy" fill="#4A90E2" x="5" y="4" width="6" height="1"></rect>
+        <rect id="Rectangle-Copy-3" fill="#4A90E2" transform="translate(11.433013, 6.015063) rotate(60.000000) translate(-11.433013, -6.015063) " x="8.9330127" y="5.51506341" width="5" height="1"></rect>
+        <polygon id="Rectangle-Copy-4" fill="#4A90E2" transform="translate(11.433013, 9.845063) rotate(-60.000000) translate(-11.433013, -9.845063) " points="8.9330127 9.34506334 13.9330127 9.34506334 13.9330127 10.3450633 8.9330127 10.3450633"></polygon>
+        <rect id="Rectangle-Copy-6" fill="#4A90E2" transform="translate(4.433013, 6.015063) scale(-1, 1) rotate(60.000000) translate(-4.433013, -6.015063) " x="1.9330127" y="5.51506341" width="5" height="1"></rect>
+        <polygon id="Rectangle-Copy-5" fill="#4A90E2" transform="translate(4.433013, 9.845063) scale(-1, 1) rotate(-60.000000) translate(-4.433013, -9.845063) " points="1.9330127 9.34506334 6.9330127 9.34506334 6.9330127 10.3450633 1.9330127 10.3450633"></polygon>
+        <rect id="Rectangle-Copy-2" fill="#4A90E2" x="5" y="11" width="6" height="1"></rect>
+    </g>
+</svg>

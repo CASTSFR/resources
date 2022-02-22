@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AWSLambdaFunction</title>
+    <g id="AWSLambdaFunction" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Compute/AWSLambda/LambdaFunction" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Group">
+                <circle id="Oval" fill="#9D5025" cx="31" cy="33.25" r="30.43"></circle>
+                <polygon id="Rectangle-path" fill="#9D5025" points="0.57 30.75 61.43 30.75 61.43 33.25 0.57 33.25"></polygon>
+                <circle id="Oval" fill="#F58536" cx="31" cy="30.75" r="30.43"></circle>
+                <polygon id="Shape" fill="#FFFFFF" points="50.8 45.7 48.44 39.51 43.16 41.53 35.61 21.76 33.51 16.29 32.53 13.71 30.98 9.67 23.89 9.67 20.98 9.67 20.98 16.29 26.42 16.29 28.31 21.23 12.57 49.25 20.17 49.25 31.39 29.27 39.34 50.08 41.23 49.36 45.53 47.72 45.53 47.72"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

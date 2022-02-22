@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CursorHeader</title>
+    <g id="CursorHeader" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alias" transform="translate(16.000000, 12.500000) rotate(180.000000) translate(-16.000000, -12.500000) translate(1.000000, 0.000000)">
+            <g id="Group">
+                <polygon id="Shape" fill="#1A4F8E" points="9.21869565 15.7272727 26.1752174 15.7272727 26.1752174 21 9.21869565 21 9.21869565 15.7272727"></polygon>
+                <polygon id="Shape" fill="#4A90E2" points="13.0434783 25 13.0434783 12.4545455 -3.55271368e-15 19"></polygon>
+                <polygon id="Shape" fill="#2D71C0" points="18.2608696 0 11.7391304 0 23.4782609 21 30 21"></polygon>
+                <polygon id="Shape" fill="#4A90E2" points="10.4347826 0 16.9565217 0 10.4347826 8 3.91304348 8"></polygon>
+            </g>
+        </g>
+        <g id="Group" transform="translate(23.000000, 22.000000)" fill="#000000">
+            <polygon id="Shape" points="9.125 1.42857143 9.125 0 6.375 0 6.375 4.28571429 5 4.28571429 5 5.71428571 6.375 5.71428571 6.375 10 9.125 10 9.125 8.57142857 7.75 8.57142857 7.75 1.42857143"></polygon>
+            <polygon id="Shape" points="3.625 4.28571429 3.625 0 0.875 0 0.875 1.42857143 2.25 1.42857143 2.25 8.57142857 0.875 8.57142857 0.875 10 3.625 10 3.625 5.71428571 5 5.71428571 5 4.28571429"></polygon>
+        </g>
+    </g>
+</svg>

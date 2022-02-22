@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UITextFieldRedCorner</title>
+    <g id="UITextFieldRedCorner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-42" stroke="#979797" stroke-width="2" fill="#FFFFFF" x="3" y="10" width="26" height="14"></rect>
+        <polygon id="Rectangle-42-Copy" fill="#F1F1F1" points="4 11 28 11 28 23 16.9230769 23"></polygon>
+        <rect id="Rectangle-45" fill="#000000" x="6" y="12" width="2" height="10"></rect>
+        <polygon id="Rectangle" fill="#D0021B" points="1.33226763e-15 0 6 0 0 6"></polygon>
+    </g>
+</svg>

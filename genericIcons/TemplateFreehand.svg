@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TemplateFreehand</title>
+    <g id="TemplateFreehand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,1 L15,15 L1,15 L1,1 L15,1 Z M14,2 L2,2 L2,14 L14,14 L14,2 Z" id="Combined-Shape" fill="#4A4A4A"></path>
+        <path d="M3,8.62806592 L5.37791745,5.29230158 L6.80857564,7.85193937 L7.62991962,9.94838861 L8.31702632,11.7070262 L10.9029935,11.6868583 C10.9029935,11.6868583 11.5958894,11.2451821 11.5958894,10.5967854 C11.5958894,9.94838861 12.6607419,5.95985781 12.6607419,5.95985781 L12.1060634,3.51114325 L9.80304381,3.10442471 L8.60323032,4.52625896" id="Path-2" stroke="#4A90E2"></path>
+    </g>
+</svg>

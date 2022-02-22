@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Condition</title>
+    <g id="Condition" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alias" transform="translate(17.000000, 15.000000) rotate(180.000000) translate(-17.000000, -15.000000) translate(-3.000000, -2.000000)">
+            <g id="Group" transform="translate(0.000000, 0.000000)">
+                <polygon id="Shape-Copy-2" fill="#2D71C0" transform="translate(31.351947, 25.245120) scale(-1, 1) rotate(-61.000000) translate(-31.351947, -25.245120) " points="37.8736864 31.5178474 37.8736864 18.9723928 24.8302081 25.5178474"></polygon>
+                <polygon id="Shape" fill="#2D71C0" points="17 6 28.5714286 27 33.5 23.5 23.4285714 6"></polygon>
+                <polygon id="Shape-Copy-3" fill="#4A90E2" transform="translate(9.351947, 25.245120) rotate(-61.000000) translate(-9.351947, -25.245120) " points="15.8736864 31.5178474 15.8736864 18.9723928 2.83020811 25.5178474"></polygon>
+                <polygon id="Shape-Copy" fill="#4A90E2" transform="translate(15.250000, 16.500000) scale(-1, 1) translate(-15.250000, -16.500000) " points="7 6 18.5714286 27 23.5 23.5 13.4285714 6"></polygon>
+                <rect id="Rectangle" fill="#4A90E2" x="17" y="0" width="7" height="6"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

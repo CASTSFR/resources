@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FunctionAction</title>
+    <g id="FunctionAction" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function" transform="translate(1.000000, 1.000000)">
+            <polygon id="Shape" fill="#C88312" points="0 24.6763636 9.61538462 24.6763636 9.61538462 28.7890909 0 28.7890909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="6.2967033 24.6763636 2.7760989 28.8110255 8.2706044 28.8110255 9.20604396 24.6763636"></polygon>
+            <polygon id="Shape" fill="#C88312" points="16.4835165 0 26.0989011 0 26.0989011 4.11272727 16.4835165 4.11272727"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="19.831044 4.13466182 23.3516484 0 17.8571429 0 16.9203297 4.13466182"></polygon>
+            <polygon id="Shape" fill="#C88312" points="5.49450549 9.59636364 21.978022 9.59636364 21.978022 13.7090909 5.49450549 13.7090909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="17.0837912 13.7310255 20.6043956 9.59636364 15.1098901 9.59636364 14.1730769 13.7310255"></polygon>
+            <polygon id="Shape" fill="#F5A623" points="15.1098901 0 20.6043956 0 10.989011 28.7890909 5.49450549 28.7890909"></polygon>
+        </g>
+        <circle id="Oval-1" stroke="#D0021B" cx="24" cy="24" r="5.5"></circle>
+        <circle id="Oval-1-Copy" stroke="#D0021B" cx="24" cy="24" r="2.5"></circle>
+    </g>
+</svg>

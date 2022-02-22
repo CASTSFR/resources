@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Shell_Application</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Shell_Application" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-1" fill="#1A4F8E" x="0" y="0" width="16" height="16" rx="8"></rect>
+        <rect id="Rectangle" stroke="#FFFFFF" x="3.5" y="4.5" width="9" height="8"></rect>
+        <rect id="Rectangle-Copy" stroke="#FFFFFF" x="3.5" y="3.5" width="9" height="1"></rect>
+        <g id="Group" transform="translate(3.888674, 6.914214)" fill="#D8D8D8">
+            <rect id="Rectangle" transform="translate(2.525539, 1.500000) rotate(34.000000) translate(-2.525539, -1.500000) " x="1.02553917" y="1" width="3" height="1" rx="0.5"></rect>
+            <rect id="Rectangle-Copy-2" transform="translate(2.500000, 2.523816) rotate(-28.000000) translate(-2.500000, -2.523816) " x="1" y="2.02381617" width="3" height="1" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Lambda</title>
+    <g id="Lambda" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function" transform="translate(2.000000, 0.000000)">
+            <polygon id="Shape" fill="#C88312" points="8.15750916 0 13.4993895 0 13.4993895 2.26909091 8.15750916 2.26909091"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="10.0172466 2.28119273 11.973138 0 8.92063492 0 8.40018315 2.28119273"></polygon>
+            <polygon id="Shape-Copy" fill="#C88312" transform="translate(8.631258, 11.156364) scale(-1, 1) translate(-8.631258, -11.156364) " points="9.88000888 6.42909091 13.2100122 6.42909091 7.38250638 15.8836364 4.05250305 15.8836364"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="9 9 7.39999962 6.5 6 9.5 7.5 12"></polygon>
+            <polygon id="Shape" fill="#F5A623" points="10.5 0 3.5 15.8836364 0.0525030525 15.8836364 6.90992341 0"></polygon>
+        </g>
+    </g>
+</svg>

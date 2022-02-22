@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Application_Angular</title>
+    <g id="Application_Angular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle" fill="#E42A3A" points="0.879061082 5.49514532 16.0000003 0 31.2030204 5.49514532 28.7666191 25.3446846 16.0000003 32 3.27654944 25.3446846"></polygon>
+        <path d="M16,3 L26,23.5 L21.849,23.5 L20.1824646,19 L11.8180075,19 L10.264,23.5 L6,23.5 L16,3 Z M16,10 L13,16 L19,16 L16,10 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        <polygon id="Rectangle-Copy" fill-opacity="0.219999999" fill="#000000" points="16.0000003 0 31.2030204 5.49514532 28.7666191 25.3446846 16.0000003 32"></polygon>
+    </g>
+</svg>

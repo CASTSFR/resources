@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FunctionPurpleHeader</title>
+    <g id="FunctionPurpleHeader" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function" transform="translate(1.000000, 1.000000)">
+            <polygon id="Shape" fill="#A771B2" points="0 24.6763636 9.61538462 24.6763636 9.61538462 28.7890909 0 28.7890909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="6.2967033 24.6763636 2.7760989 28.8110255 8.2706044 28.8110255 9.20604396 24.6763636"></polygon>
+            <polygon id="Shape" fill="#A771B2" points="16.4835165 0 26.0989011 0 26.0989011 4.11272727 16.4835165 4.11272727"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="19.831044 4.13466182 23.3516484 0 17.8571429 0 16.9203297 4.13466182"></polygon>
+            <polygon id="Shape" fill="#A771B2" points="5.49450549 9.59636364 21.978022 9.59636364 21.978022 13.7090909 5.49450549 13.7090909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="17.0837912 13.7310255 20.6043956 9.59636364 15.1098901 9.59636364 14.1730769 13.7310255"></polygon>
+            <polygon id="Shape" fill="#D391E0" points="15.1098901 0 20.6043956 0 10.989011 28.7890909 5.49450549 28.7890909"></polygon>
+        </g>
+        <g id="Group" transform="translate(20.000000, 19.000000)" fill="#000000">
+            <polygon id="Shape" points="9.125 1.42857143 9.125 0 6.375 0 6.375 4.28571429 5 4.28571429 5 5.71428571 6.375 5.71428571 6.375 10 9.125 10 9.125 8.57142857 7.75 8.57142857 7.75 1.42857143"></polygon>
+            <polygon id="Shape" points="3.625 4.28571429 3.625 0 0.875 0 0.875 1.42857143 2.25 1.42857143 2.25 8.57142857 0.875 8.57142857 0.875 10 3.625 10 3.625 5.71428571 5 5.71428571 5 4.28571429"></polygon>
+        </g>
+    </g>
+</svg>

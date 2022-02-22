@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FunctionOrangeModel</title>
+    <g id="FunctionOrangeModel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function" transform="translate(1.000000, 1.000000)">
+            <polygon id="Shape" fill="#C23C19" points="0 24.6763636 9.61538462 24.6763636 9.61538462 28.7890909 0 28.7890909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="6.2967033 24.6763636 2.7760989 28.8110255 8.2706044 28.8110255 9.20604396 24.6763636"></polygon>
+            <polygon id="Shape" fill="#C23C19" points="16.4835165 0 26.0989011 0 26.0989011 4.11272727 16.4835165 4.11272727"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="19.831044 4.13466182 23.3516484 0 17.8571429 0 16.9203297 4.13466182"></polygon>
+            <polygon id="Shape" fill="#C23C19" points="5.49450549 9.59636364 21.978022 9.59636364 21.978022 13.7090909 5.49450549 13.7090909"></polygon>
+            <polygon id="Shape" fill="#000000" opacity="0.3" points="17.0837912 13.7310255 20.6043956 9.59636364 15.1098901 9.59636364 14.1730769 13.7310255"></polygon>
+            <polygon id="Shape" fill="#F54F23" points="15.1098901 0 20.6043956 0 10.989011 28.7890909 5.49450549 28.7890909"></polygon>
+        </g>
+        <g id="model" transform="translate(17.000000, 17.000000)">
+            <g id="Group">
+                <g transform="translate(6.000000, 3.000000)" fill="#B20F44" id="Rectangle-path">
+                    <rect x="5.75" y="2.75" width="1" height="4.5"></rect>
+                    <rect x="0.25" y="0.25" width="4" height="1"></rect>
+                </g>
+                <g fill="#EA0F56">
+                    <rect id="Rectangle-path" x="9.75" y="1.25" width="5" height="5"></rect>
+                    <circle id="Oval" cx="12.25" cy="12.25" r="2.5"></circle>
+                    <path d="M3.75,0.25 C1.817,0.25 0.25,1.817 0.25,3.75 C0.25,5.683 1.817,7.25 3.75,7.25 C5.683,7.25 7.25,5.683 7.25,3.75 C7.25,1.817 5.683,0.25 3.75,0.25 L3.75,0.25 Z M3.75,5.75 C2.6455,5.75 1.75,4.8545 1.75,3.75 C1.75,2.6455 2.6455,1.75 3.75,1.75 C4.8545,1.75 5.75,2.6455 5.75,3.75 C5.75,4.8545 4.8545,5.75 3.75,5.75 L3.75,5.75 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
