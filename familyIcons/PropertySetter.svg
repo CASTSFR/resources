@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>PropertySetter</title>
-    <g id="PropertySetter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M24,9 C20.475,9 17.565,11.609 17.079,15 L8.858,15 C8.412,13.278 6.861,12 5,12 C2.791,12 1,13.791 1,16 C1,18.209 2.791,20 5,20 C6.861,20 8.412,18.722 8.858,17 L17.079,17 C17.565,20.391 20.475,23 24,23 C27.866,23 31,19.866 31,16 C31,12.134 27.866,9 24,9 L24,9 Z M24,20 C21.791,20 20,18.209 20,16 C20,13.791 21.791,12 24,12 C26.209,12 28,13.791 28,16 C28,18.209 26.209,20 24,20 L24,20 Z" id="Shape" fill="#000000"></path>
+    <title>PropertyGetter</title>
+    <g id="PropertyGetter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,9 C20.475,9 17.565,11.609 17.079,15 L8.858,15 C8.412,13.278 6.861,12 5,12 C2.791,12 1,13.791 1,16 C1,18.209 2.791,20 5,20 C6.861,20 8.412,18.722 8.858,17 L17.079,17 C17.565,20.391 20.475,23 24,23 C27.866,23 31,19.866 31,16 C31,12.134 27.866,9 24,9 L24,9 Z M24,20 C21.791,20 20,18.209 20,16 C20,13.791 21.791,12 24,12 C26.209,12 28,13.791 28,16 C28,18.209 26.209,20 24,20 L24,20 Z" id="Shape" fill="#000000" transform="translate(16.000000, 16.000000) scale(-1, 1) translate(-16.000000, -16.000000) "></path>
     </g>
 </svg>
