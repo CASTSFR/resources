@@ -1,0 +1,246 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?1p076v');
+  src:  url('fonts/icomoon.eot?1p076v#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1p076v') format('truetype'),
+    url('fonts/icomoon.woff?1p076v') format('woff'),
+    url('fonts/icomoon.svg?1p076v#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Alias:before {
+  content: "\e900";
+}
+.icon-APIGateway:before {
+  content: "\e901";
+}
+.icon-Authentication:before {
+  content: "\e902";
+}
+.icon-AWSLambdaFunction:before {
+  content: "\e903";
+}
+.icon-AWSLambdaFunctionInvokeBlack:before {
+  content: "\e905";
+}
+.icon-AWSLambdaInvokeFunctionBlack:before {
+  content: "\e906";
+}
+.icon-Beans:before {
+  content: "\e907";
+}
+.icon-Book:before {
+  content: "\e908";
+}
+.icon-Bucket:before {
+  content: "\e909";
+}
+.icon-CallToJavaBean:before {
+  content: "\e90a";
+}
+.icon-CallToJavaProgram:before {
+  content: "\e90b";
+}
+.icon-CallToProgram:before {
+  content: "\e90c";
+}
+.icon-Category:before {
+  content: "\e90d";
+}
+.icon-Class:before {
+  content: "\e90e";
+}
+.icon-Condition:before {
+  content: "\e90f";
+}
+.icon-ConstraintPrimary:before {
+  content: "\e910";
+}
+.icon-Constructor:before {
+  content: "\e911";
+}
+.icon-Cursor:before {
+  content: "\e912";
+}
+.icon-Database:before {
+  content: "\e913";
+}
+.icon-DatabaseConnection:before {
+  content: "\e914";
+}
+.icon-DatabaseView:before {
+  content: "\e915";
+}
+.icon-DataBlock:before {
+  content: "\e916";
+}
+.icon-DataModule:before {
+  content: "\e917";
+}
+.icon-DataSet:before {
+  content: "\e918";
+}
+.icon-Destructor:before {
+  content: "\e919";
+}
+.icon-Division:before {
+  content: "\e91a";
+}
+.icon-Enumeration:before {
+  content: "\e91b";
+}
+.icon-EnumItem:before {
+  content: "\e91c";
+}
+.icon-EventHandler:before {
+  content: "\e91d";
+}
+.icon-File:before {
+  content: "\e91e";
+}
+.icon-Folder:before {
+  content: "\e91f";
+}
+.icon-ForeignKey:before {
+  content: "\e920";
+}
+.icon-Form:before {
+  content: "\e921";
+}
+.icon-Function:before {
+  content: "\e922";
+}
+.icon-Index:before {
+  content: "\e923";
+}
+.icon-Lambda:before {
+  content: "\e924";
+}
+.icon-List:before {
+  content: "\e925";
+}
+.icon-ListBean:before {
+  content: "\e926";
+}
+.icon-LocalStorage:before {
+  content: "\e927";
+}
+.icon-Macro:before {
+  content: "\e928";
+}
+.icon-Namespace:before {
+  content: "\e929";
+}
+.icon-Package:before {
+  content: "\e92a";
+}
+.icon-Paragraph:before {
+  content: "\e92b";
+}
+.icon-Procedure:before {
+  content: "\e92c";
+}
+.icon-Process:before {
+  content: "\e92d";
+}
+.icon-Program:before {
+  content: "\e92e";
+}
+.icon-PropertyGetter:before {
+  content: "\e92f";
+}
+.icon-PropertySetter:before {
+  content: "\e930";
+}
+.icon-Queue:before {
+  content: "\e931";
+}
+.icon-QueueCall:before {
+  content: "\e932";
+}
+.icon-QueueReceive:before {
+  content: "\e933";
+}
+.icon-Receive:before {
+  content: "\e934";
+}
+.icon-Region:before {
+  content: "\e935";
+}
+.icon-ResourceServiceDelete:before {
+  content: "\e936";
+}
+.icon-ResourceServiceGet:before {
+  content: "\e937";
+}
+.icon-ResourceServicePost:before {
+  content: "\e938";
+}
+.icon-ResourceServicePut:before {
+  content: "\e939";
+}
+.icon-RouteFrom:before {
+  content: "\e93a";
+}
+.icon-RouteTo:before {
+  content: "\e93b";
+}
+.icon-Schema:before {
+  content: "\e93c";
+}
+.icon-Section:before {
+  content: "\e93d";
+}
+.icon-Service:before {
+  content: "\e93e";
+}
+.icon-SQLNamedQuery:before {
+  content: "\e93f";
+}
+.icon-Synonym:before {
+  content: "\e940";
+}
+.icon-Table:before {
+  content: "\e941";
+}
+.icon-TableColumn:before {
+  content: "\e942";
+}
+.icon-Trigger:before {
+  content: "\e943";
+}
+.icon-UIButton:before {
+  content: "\e944";
+}
+.icon-UITextField:before {
+  content: "\e945";
+}
+.icon-UIView:before {
+  content: "\e946";
+}
+.icon-UniqueKey:before {
+  content: "\e947";
+}
+.icon-Variable:before {
+  content: "\e948";
+}
+.icon-WebService:before {
+  content: "\e949";
+}
